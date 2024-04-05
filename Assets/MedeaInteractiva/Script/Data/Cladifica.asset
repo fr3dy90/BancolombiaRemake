@@ -27,3 +27,11 @@ MonoBehaviour:
     audio: {fileID: 8300000, guid: 322178d5f24ff8a4387c33b04de9992e, type: 3}
   - dialogue: "\xA1La preparaci\xF3n es la base para ofrecer un servicio excelente!"
     audio: {fileID: 8300000, guid: df37a74db1d434f4c95b897a9c7b28f3, type: 3}
+  - dialogue: "Instrucci\xF3nes"
+    audio: {fileID: 0}
+  - dialogue: "Clasifica tus objetos de trabajo entre las categor\xEDas <b>Dispositivos,
+      Seguridad o Papeler\xEDa.</b>"
+    audio: {fileID: 0}
+  - dialogue: "Recibe puntos con cada acierto, avanza y convi\xE9rtete en todo un
+      gur\xFA de la asesor\xEDa."
+    audio: {fileID: 0}
