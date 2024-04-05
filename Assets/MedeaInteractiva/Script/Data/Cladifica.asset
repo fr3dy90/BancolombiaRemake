@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebeacc384b9ef30469671dd90125e4ab, type: 3}
+  m_Name: Cladifica
+  m_EditorClassIdentifier: 
+  spriteMoment: {fileID: 21300000, guid: 1f5ccc64bc767244a9133b26f8b4e2f7, type: 3}
+  dialogue:
+  - dialogue: "Identificar las herramientas esenciales que har\xE1n parte de tu d\xEDa
+      a d\xEDa, es fundamental para que puedas ejercer de forma adecuada tu rol y
+      prestar un servicio memorable para nuestros clientes."
+    audio: {fileID: 8300000, guid: 0db4708b40ecd094bae2f2cf5ca60b18, type: 3}
+  - dialogue: "En esta actividad, deber\xE1s clasificar las diferentes herramientas
+      que se encuentran en tu puesto de trabajo seg\xFAn sus caracter\xEDsticas."
+    audio: {fileID: 8300000, guid: a8eac410415c98c4eb3a4a8f799dc1a3, type: 3}
+  - dialogue: "Ten en cuenta que, como cajero, debes actuar de forma \xE1gil y oportuna;
+      por eso, en este reto el tiempo ser\xE1 un factor determinante para que puedas
+      obtener m\xE1s puntos."
+    audio: {fileID: 8300000, guid: 322178d5f24ff8a4387c33b04de9992e, type: 3}
+  - dialogue: "\xA1La preparaci\xF3n es la base para ofrecer un servicio excelente!"
+    audio: {fileID: 8300000, guid: df37a74db1d434f4c95b897a9c7b28f3, type: 3}

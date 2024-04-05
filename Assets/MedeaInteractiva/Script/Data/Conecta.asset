@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebeacc384b9ef30469671dd90125e4ab, type: 3}
+  m_Name: Conecta
+  m_EditorClassIdentifier: 
+  spriteMoment: {fileID: 21300000, guid: 72aed183ccc2a1042b1a611ff77e42aa, type: 3}
+  dialogue:
+  - dialogue: "Conocer para qu\xE9 sirve cada uno de los elementos es fundamental
+      para desarrollar de manera correcta y segura los procesos asociados a tu rol."
+    audio: {fileID: 8300000, guid: 5ef69b64788bd954dbb41c92300cf5f1, type: 3}
+  - dialogue: "Esta vez, tendr\xE1s el reto de asociar cada uno de los objetos y
+      herramientas que hacen parte de tu puesto de trabajo, con su respectiva funci\xF3n."
+    audio: {fileID: 8300000, guid: e5f2114623f69174cae227a6107caa31, type: 3}
+  - dialogue: "Relaciona y empareja los objetos de tu trabajo eligiendo la definici\xF3n
+      que m\xE1s corresponda al elemento."
+    audio: {fileID: 8300000, guid: aec795836f8f81347837e1176364df06, type: 3}
+  - dialogue: "Arrastra cada objeto hasta su definici\xF3n recuerda dejar tu mirada
+      fija en este. Si te equivocas, puedes intentar nuevamente hasta que aciertes."
+    audio: {fileID: 8300000, guid: 4401d4fd90b8ae141aa3a13ebbd0d9c8, type: 3}

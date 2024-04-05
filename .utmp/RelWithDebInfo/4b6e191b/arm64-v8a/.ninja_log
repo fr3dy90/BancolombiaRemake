@@ -1,0 +1,9 @@
+# ninja log v5
+29	5976	7338612310840755	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	cfed16da64e6c08c
+23	5989	7338612312636482	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	284a8713b8cfc20c
+47	5990	7338612315159683	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7d57394c06f58a72
+17	5992	7338612317435615	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	1009cc68375d0eda
+1	6021	7338612319541187	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	75afe260cd59720a
+11	6118	7338612321878093	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	b132ac65a3d3cc97
+37	6124	7338612323354263	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	3401ec1710c79fc4
+6126	6573	7338612332055414	C:/Unity/BancolombiaCajerosRemake/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4b6e191b/obj/arm64-v8a/libgame.so	6fe6ba2181ace5c6
